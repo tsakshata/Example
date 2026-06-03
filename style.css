@@ -9,6 +9,10 @@ h1 {
     color: darkblue;
 }
 
+h2 {
+    color: darkblue;
+}
+
 p {
     color: #555;
     font-size: 18px;
@@ -56,4 +60,25 @@ a {
 
 a:hover {
     color: darkblue;
+}
+
+/* About Page Styling */
+
+div {
+    background-color: white;
+    width: 70%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    text-align: left;
+    display: inline-block;
+    color: #555;
+}
+
+li {
+    margin: 8px 0;
 }
